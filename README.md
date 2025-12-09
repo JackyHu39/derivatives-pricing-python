@@ -1,3 +1,11 @@
+## Figures
+
+![GBM paths](figures/gbm_paths.png)
+![GBM terminal prices](figures/gbm_terminal_prices.png)
+![MC convergence](figures/mc_convergence.png)
+![Heston vs GBM tails](figures/heston_vs_gbm_tails.png)
+
+
 **Stochastic Pricing Lab (GBM • Black–Scholes • Monte Carlo • Heston)**
 
 This project is a small “pricing lab” in Python to:
@@ -93,4 +101,5 @@ README.md
     prints quantiles, kurtosis, and 1% VaR for both models
 
     shows why constant volatility can understate tail risk
+
 
